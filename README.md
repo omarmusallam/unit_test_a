@@ -1,6 +1,14 @@
-1-What is JUnit?
-JUnit is a unit testing open-source framework for the Java programming language. Java Developers use this framework to write and execute automated tests. In Java, there are test cases that have to be re-executed every time a new code is added. This is done to make sure that nothing in the code is broken. 
+1. What is JUnit?
+- JUnit is an open-source Java programming language unit testing framework. Java developers use this framework to write and run tests.
+- In Java, there are test cases that have to be re-executed each time new code is added. This is done to ensure that there is no code breakage.
 
-2-What is Unit Testing?
-Unit testing, as the name suggests, refers to the testing of small segments of code. Here, a unit indicates the smallest bit of code that can be fetched out of the system. This small bit can be a line of the code, a method, or a class. The smaller the chunk of code, the better it is, as smaller chunks will tend to run faster. And this provides a better insight into the code and its performance. 
-3. What is the diff between junit and unit test
+2. What is Unit Testing?
+- refers to the testing of small segments of code.
+- This small bit can be a line of code, a method, or a class.
+- The smaller the chunk of code, the better it is Because the small code runs faster.
+
+3. What is the diff between junit and unit test?
+01 : Programming language Junit : Java
+01 : Programming language Unit : Ruby
+02 : Category Junit : Regression Testing
+02 : Category Unit : Intergration Testing
